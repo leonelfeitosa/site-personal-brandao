@@ -18,4 +18,3 @@ $('#descricao_musculacao').html(descricao_musculacao);
 
 
 
-
