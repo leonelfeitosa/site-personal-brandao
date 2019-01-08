@@ -3,3 +3,26 @@ body,html{width:100%;height:100%}body{font-family:Merriweather,'Helvetica Neue',
 .face{
     align-content: center;
 }
+
+.tamanho{
+    font-size: 120px;
+    color: #fff;
+}
+.corbranco:hover{
+    color: #fff;
+}
+
+.corbranco{
+    color: #fff;
+}
+
+
+a:hover {
+    text-decoration: none
+
+}
+
+.margem{
+    margin-block-end: 0px;
+
+}
